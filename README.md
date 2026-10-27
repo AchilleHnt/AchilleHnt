@@ -1,24 +1,17 @@
-<!-- En-tête avec un style de bannière minimaliste, moderne et percutant -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rounded&color=gradient&customColorList=0,4,12,24&height=160&section=header&text=Achille%20Hounmonto&fontSize=38&fontColor=ffffff&animation=scaleIn&fontAlignY=40&desc=Développeur%20Web%20Junior%20Backend%20|%20PHP,%20Laravel%20&%20Python&descSize=14&descAlignY=65" width="100%" />
+# 👋 Salut, moi c'est Achille Hounmonto
+
+**Développeur Web Junior Backend | PHP, Laravel & Python** basé à Cotonou, Bénin 🇧🇯.  
+Je conçois des solutions backend robustes, des APIs et j'intègre les systèmes de paiement **Mobile Money** (FedaPay, KkiaPay) 💳.
+
+<p style="font-size: 16px; line-height: 1.6;">
+- 🔭 Je travaille actuellement sur le <b>Gestionnaire de Créances</b> & <b>MiniWallet</b><br>
+- 🌱 J'apprends actuellement <b>React</b>, <b>TypeScript</b> et <b>Docker / CI-CD</b><br>
+- ⚡ <b>Résultat clé</b> : Optimisation d'un script d'automatisation Python réduisant le temps de traitement de <b>227s à 41s (-82%)</b>[cite: 1].
 </p>
-
-### Hi there <a href="https://achillehounmonto.vercel.app"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a> 
-
-<p style="font-size: 18px; line-height: 1.6;">
-<b>Achille Hounmonto</b> — Développeur Web Junior Backend | PHP, Laravel & Python basé à Cotonou, Bénin 🇧🇯.<br>
-Passionné par la création de solutions backend robustes, le développement d'APIs et l'intégration des systèmes de paiement <b>Mobile Money</b> (FedaPay, KkiaPay) 💳.
-</p>
-
-- 🔭 &nbsp;Je travaille actuellement sur le **Gestionnaire de Créances** & **MiniWallet**
-- 🌱 &nbsp;J'apprends actuellement **React**, **TypeScript** et **Docker / CI-CD**
-- 💬 &nbsp;N'hésite pas à m'interroger sur **PHP 8+, Laravel, Python, PDO, MySQL** ou les **Webhooks Mobile Money**
-- 👨‍💻 &nbsp;Découvre mes projets et études de cas sur [achillehounmonto.vercel.app](https://achillehounmonto.vercel.app)
-- ⚡ &nbsp;**Résultat clé** : Optimisation d'un script d'automatisation Python réduisant le temps de traitement de **227s à 41s (-82%)** !
 
 ---
 
-### 🚀&nbsp; Projets Phares
+### 🚀 Projets Phares
 
 - 💳 **[MiniWallet](https://github.com/AchilleHnt/miniwallet)** - Moteur de transferts Mobile Money testé en PHP Orienté Objet (Enums, exceptions, injection de dépendances, tests unitaires).
 - 📊 **[Gestionnaire de Créances](https://github.com/AchilleHnt/gestion-creances)** - Application web architecturée en MVC fait main (Routeur, PDO, transactions SQL, sécurité contre les injections).
@@ -29,7 +22,7 @@ Passionné par la création de solutions backend robustes, le développement d'A
 
 ---
 
-### 🛠️&nbsp; Stack Technique & Outils
+### 🛠️ Stack Technique & Outils
 
 <p align="left">
   <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
@@ -54,30 +47,11 @@ Passionné par la création de solutions backend robustes, le développement d'A
 
 ---
 
-### 📊&nbsp; GitHub Stats & Dynamisme
+### 🔗 Me contacter & Collaborer
 
-<!-- Citation de développeur dynamique (Remplace l'animation lourde ou redondante) -->
-<p align="center">
-  <img src="https://readme-quotes-bay.vercel.app/api?theme=radical&font=git&border=false" alt="Dev Quote" width="100%" />
-</p>
-
-<!-- Statistiques générales et langages les plus utilisés -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AchilleHnt&show_icons=true&theme=radical&hide_border=true" alt="Achille's Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AchilleHnt&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="46%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AchilleHnt&theme=radical&hide_border=true" alt="GitHub Streak" width="100%" />
-</p>
-
----
-
-### 🔗&nbsp; Me contacter & Collaborer
-
-| | | | | |
-|:--:|:--:|:--:|:--:|:--:|
-| <a href="https://achillehounmonto.vercel.app"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/website.svg" width="35" alt="Portfolio"></a> | <a href="https://linkedin.com/in/achillehounmonto"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="35" alt="LinkedIn"></a> | <a href="https://wa.me/22900000000?text=Bonjour%20Achille,%20je%20vous%20contacte%20depuis%20votre%20GitHub"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" width="35" alt="WhatsApp"></a> | <a href="mailto:contact.achillehounmonto@gmail.com"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" width="35" alt="Email"></a> | <img src="https://komarev.com/ghpvc/?username=AchilleHnt&color=brightgreen&style=flat-square" alt="Profile Views" /> |
-| **Portfolio** | **LinkedIn** | **WhatsApp** | **Email** | **Vues profil** |
+| | | | |
+|:--:|:--:|:--:|:--:|
+| <a href="https://achillehounmonto.vercel.app"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/website.svg" width="35" alt="Portfolio"></a> | <a href="https://linkedin.com/in/achillehounmonto"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="35" alt="LinkedIn"></a> | <a href="https://wa.me/22900000000?text=Bonjour%20Achille,%20je%20vous%20contacte%20depuis%20votre%20GitHub"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" width="35" alt="WhatsApp"></a> | <a href="mailto:contact.achillehounmonto@gmail.com"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" width="35" alt="Email"></a> |
+| **Portfolio** | **LinkedIn** | **WhatsApp** | **Email** |
 
 📌 *Disponible pour un stage, une alternance ou des missions en Freelance (PHP / Laravel / Python / Mobile Money).*
