@@ -1,4 +1,9 @@
-### Hi there <a href="https://achillehounmonto.vercel.app"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a> I'm Achille Hounmonto
+<!-- En-tête avec bannière graphique stylisée -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,15,25,30&height=180&section=header&text=Achille%20Hounmonto&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Développeur%20Web%20Junior%20(PHP%20/%20Laravel%20&%20Python)&descSize=16&descAlignY=62" width="100%" />
+</p>
+
+### Hi there <a href="https://achillehounmonto.vercel.app"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a> 
 
 **Développeur Web Junior (PHP / Laravel & Python)** basé à Cotonou, Bénin 🇧🇯.  
 Passionné par la création de solutions backend robustes, le développement d'APIs et l'intégration des systèmes de paiement **Mobile Money** (FedaPay, KkiaPay) 💳.
@@ -33,7 +38,7 @@ Passionné par la création de solutions backend robustes, le développement d'A
   <a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/></a>
   
   <!-- Tools & OS -->
-  <a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/></a>
+  <a href="https://git-scm.com/" target="_blank"><img src="https://raw.githubusercontent.com/vectorlogo/vectorlogos/master/logos/git-scm.svg" alt="Git" width="40" height="40"/></a>
   <a href="https://www.linux.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/></a>
   <a href="https://www.docker.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40"/></a>
 </p>
@@ -50,12 +55,34 @@ Passionné par la création de solutions backend robustes, le développement d'A
 
 ---
 
-### 📊&nbsp; GitHub Stats
+### 🏆&nbsp; GitHub Trophies & Stats
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=AchilleHnt&show_icons=true&theme=radial&hide_border=true" alt="Achille's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AchilleHnt&layout=compact&theme=radial&hide_border=true" alt="Top Languages" width="45%" />
+<!-- Trophées GitHub (ryo-ma/github-profile-trophy) -->
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=AchilleHnt&theme=radical&no-frame=true&no-bg=true&margin-w=4&margin-h=4" alt="GitHub Trophies" />
 </p>
+
+<!-- Statistiques et Streak Stats -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AchilleHnt&show_icons=true&theme=radical&hide_border=true" alt="Achille's Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AchilleHnt&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="46%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AchilleHnt&theme=radical&hide_border=true" alt="GitHub Streak" width="100%" />
+</p>
+
+---
+
+### 🐍&nbsp; Animation de Contributions (Snake)
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AchilleHnt/AchilleHnt/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AchilleHnt/AchilleHnt/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/AchilleHnt/AchilleHnt/output/github-contribution-grid-snake.svg">
+  </picture>
+</p>
+*(Note : Pour activer le Snake game, assure-toi d'ajouter l'action GitHub dédiée qui génère ce fichier automatiquement dans ton dépôt profil).*
 
 ---
 
