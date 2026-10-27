@@ -1,6 +1,6 @@
-<!-- En-tête avec bannière graphique stylisée -->
+<!-- En-tête avec un style de bannière minimaliste, moderne et percutant -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,15,25,30&height=180&section=header&text=Achille%20Hounmonto&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Développeur Web Junior Backend | PHP, Laravel & Python%20&%20Automatisation%20|%20PHP%20/%20Laravel%20&%20Python&descSize=15&descAlignY=62" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=rounded&color=gradient&customColorList=0,4,12,24&height=160&section=header&text=Achille%20Hounmonto&fontSize=38&fontColor=ffffff&animation=scaleIn&fontAlignY=40&desc=Développeur%20Web%20Junior%20Backend%20|%20PHP,%20Laravel%20&%20Python&descSize=14&descAlignY=65" width="100%" />
 </p>
 
 ### Hi there <a href="https://achillehounmonto.vercel.app"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a> 
@@ -54,11 +54,11 @@ Passionné par la création de solutions backend robustes, le développement d'A
 
 ---
 
-### 📊&nbsp; GitHub Activity & Stats
+### 📊&nbsp; GitHub Stats & Dynamisme
 
-<!-- Graphique d'activité propre et professionnel (Remplace le snake) -->
+<!-- Citation de développeur dynamique (Remplace l'animation lourde ou redondante) -->
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AchilleHnt&theme=react-dark&hide_border=true&area=true" alt="Activity Graph" width="100%" />
+  <img src="https://readme-quotes-bay.vercel.app/api?theme=radical&font=git&border=false" alt="Dev Quote" width="100%" />
 </p>
 
 <!-- Statistiques générales et langages les plus utilisés -->
