@@ -1,6 +1,6 @@
 <!-- En-tête avec bannière graphique stylisée -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,15,25,30&height=180&section=header&text=Achille%20Hounmonto&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Backend%20&%20Automatisation%20|%20PHP%20/%20Laravel%20&%20Python&descSize=15&descAlignY=62" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,15,25,30&height=180&section=header&text=Achille%20Hounmonto&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Développeur Web Junior Backend | PHP, Laravel & Python%20&%20Automatisation%20|%20PHP%20/%20Laravel%20&%20Python&descSize=15&descAlignY=62" width="100%" />
 </p>
 
 ### Hi there <a href="https://achillehounmonto.vercel.app"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a> 
