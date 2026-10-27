@@ -1,12 +1,12 @@
 <!-- En-tête avec bannière graphique stylisée -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,15,25,30&height=180&section=header&text=Achille%20Hounmonto&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Développeur%20Web%20Junior%20(PHP%20/%20Laravel%20&%20Python)&descSize=16&descAlignY=62" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,15,25,30&height=180&section=header&text=Achille%20Hounmonto&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Backend%20&%20Automatisation%20|%20PHP%20/%20Laravel%20&%20Python&descSize=15&descAlignY=62" width="100%" />
 </p>
 
 ### Hi there <a href="https://achillehounmonto.vercel.app"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a> 
 
-<p style="font-size: 16px;">
-<b>Développeur Web Junior (PHP / Laravel & Python)</b> basé à Cotonou, Bénin 🇧🇯.<br>
+<p style="font-size: 18px; line-height: 1.6;">
+<b>Achille Hounmonto</b> — Développeur Web Junior Backend | PHP, Laravel & Python basé à Cotonou, Bénin 🇧🇯.<br>
 Passionné par la création de solutions backend robustes, le développement d'APIs et l'intégration des systèmes de paiement <b>Mobile Money</b> (FedaPay, KkiaPay) 💳.
 </p>
 
@@ -32,7 +32,6 @@ Passionné par la création de solutions backend robustes, le développement d'A
 ### 🛠️&nbsp; Stack Technique & Outils
 
 <p align="left">
-  <!-- Badges robustes avec icônes officielles -->
   <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
   <img src="https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
   <img src="https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
@@ -55,14 +54,14 @@ Passionné par la création de solutions backend robustes, le développement d'A
 
 ---
 
-### 🏆&nbsp; GitHub Trophies & Stats
+### 📊&nbsp; GitHub Activity & Stats
 
-<!-- Trophées GitHub -->
+<!-- Graphique d'activité propre et professionnel (Remplace le snake) -->
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AchilleHnt&theme=radical&no-frame=true&no-bg=true&margin-w=4&margin-h=4" alt="GitHub Trophies" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AchilleHnt&theme=react-dark&hide_border=true&area=true" alt="Activity Graph" width="100%" />
 </p>
 
-<!-- Statistiques et Streak Stats -->
+<!-- Statistiques générales et langages les plus utilisés -->
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AchilleHnt&show_icons=true&theme=radical&hide_border=true" alt="Achille's Stats" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AchilleHnt&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="46%" />
@@ -74,22 +73,11 @@ Passionné par la création de solutions backend robustes, le développement d'A
 
 ---
 
-### 🐍&nbsp; Animation de Contributions (Snake)
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AchilleHnt/AchilleHnt/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AchilleHnt/AchilleHnt/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/AchilleHnt/AchilleHnt/output/github-contribution-grid-snake.svg">
-  </picture>
-</p>
-
----
-
 ### 🔗&nbsp; Me contacter & Collaborer
 
-| | | | |
-|:--:|:--:|:--:|:--:|
-| <a href="https://achillehounmonto.vercel.app"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/website.svg" width="35" alt="Portfolio"></a> | <a href="https://linkedin.com/in/achillehounmonto"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="35" alt="LinkedIn"></a> | <a href="https://wa.me/22900000000?text=Bonjour%20Achille,%20je%20vous%20contacte%20depuis%20votre%20GitHub"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" width="35" alt="WhatsApp"></a> | <a href="mailto:contact.achillehounmonto@gmail.com"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" width="35" alt="Email"></a> |
-| **Portfolio** | **LinkedIn** | **WhatsApp** | **Email** |
+| | | | | |
+|:--:|:--:|:--:|:--:|:--:|
+| <a href="https://achillehounmonto.vercel.app"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/website.svg" width="35" alt="Portfolio"></a> | <a href="https://linkedin.com/in/achillehounmonto"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="35" alt="LinkedIn"></a> | <a href="https://wa.me/22900000000?text=Bonjour%20Achille,%20je%20vous%20contacte%20depuis%20votre%20GitHub"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" width="35" alt="WhatsApp"></a> | <a href="mailto:contact.achillehounmonto@gmail.com"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" width="35" alt="Email"></a> | <img src="https://komarev.com/ghpvc/?username=AchilleHnt&color=brightgreen&style=flat-square" alt="Profile Views" /> |
+| **Portfolio** | **LinkedIn** | **WhatsApp** | **Email** | **Vues profil** |
 
 📌 *Disponible pour un stage, une alternance ou des missions en Freelance (PHP / Laravel / Python / Mobile Money).*
