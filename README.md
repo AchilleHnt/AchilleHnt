@@ -6,7 +6,7 @@ Je conçois des solutions backend robustes, des APIs et j'intègre les systèmes
 <p style="font-size: 16px; line-height: 1.6;">
 - 🔭 Je travaille actuellement sur le <b>Gestionnaire de Créances</b> & <b>MiniWallet</b><br>
 - 🌱 J'apprends actuellement <b>React</b>, <b>TypeScript</b> et <b>Docker / CI-CD</b><br>
-- ⚡ <b>Résultat clé</b> : Optimisation d'un script d'automatisation Python réduisant le temps de traitement de <b>227s à 41s (-82%)</b>[cite: 1].
+- ⚡ <b>Résultat clé</b> : Optimisation d'un script d'automatisation Python réduisant le temps de traitement de <b>227s à 41s (-82%)</b>
 </p>
 
 ---
