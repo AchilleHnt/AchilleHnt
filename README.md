@@ -5,10 +5,11 @@ Développeur web junior · PHP / Laravel · Python · Cotonou, Bénin
 Je développe des applications de gestion et j'automatise des traitements de données. J'intègre des paiements Mobile Money (FedaPay, KkiaPay).
 
 **Résultat clé** : dans un outil Python d'analyse de documents financiers (stage), le temps de traitement est passé de 227 s à 41 s (-82 %).
+## Projets Clés 
+- **MiniWallet** : moteur de transferts Mobile Money en PHP orienté objet (enums, exceptions, injection de dépendances, tests).
 
 ## En cours
 
-- **MiniWallet** : moteur de transferts Mobile Money en PHP orienté objet (enums, exceptions, injection de dépendances, tests).
 - **Gestionnaire de créances** : application MVC en PHP et MySQL (routeur, PDO, transactions, sécurité).
 
 Ces dépôts seront publiés ici dès qu'ils seront terminés, avec README et tests.
